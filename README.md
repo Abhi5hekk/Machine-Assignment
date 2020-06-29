@@ -73,5 +73,12 @@ The model had an accuracy of 95.55555555555556 % on the test dataset.
 
 ![Screenshot](Capture2.JPG)
 
-As can be observed from the CMC curve, the model has a considerably higher top 2 accuracy on
+| Rank | Matching Score |
+| ------------- | ------------- |
+| 1 | 0.9555555555555556 | 
+| 2 | 1.0 |
+| 3 | 1.0 |
+| 4 | 1.0 |
+
+As can be observed from the CMC curve, the model has a considerably higher top 3 accuracy on
 the test dataset.
