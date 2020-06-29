@@ -40,12 +40,14 @@ The following 15 tuples of hyperparameters have been taken for the experiment an
 cross validation scores for each of tuples have been calculated 20 times. The result below shows
 the mean cross validation score for each of the tuples.
 
-![Screenshot]()
+![Screenshot](Capture.JPG)
 
 ### Boxplot Analysis of the results
 
 Box Plots of cross validation scores are drawn for each of the tuples and compared to obtain the
 best fit set of hyperparameters.
+
+![Screenshot](Capture1.JPG)
 
 There are a few that can be inferred from the boxplots:
 * The best fit models should not have outliers as they increase the unpredictability of the
@@ -68,6 +70,8 @@ The hyperparameters used in the final model are :
 The model had an accuracy of 95.55555555555556 % on the test dataset.
 
 ### Cumulative Match Characteristic (CMC) curve
+
+![Screenshot](Capture2.JPG)
 
 As can be observed from the CMC curve, the model has a considerably higher top 2 accuracy on
 the test dataset.
