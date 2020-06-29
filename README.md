@@ -85,6 +85,6 @@ the test dataset.
 
 ### Author
 
-Name:- Abhishek Kumar
-Roll Number:- 16074002
-Branch:- CSE(IDD)
+* Name:- Abhishek Kumar
+* Roll Number:- 16074002
+* Branch:- CSE(IDD)
