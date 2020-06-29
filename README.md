@@ -40,6 +40,8 @@ The following 15 tuples of hyperparameters have been taken for the experiment an
 cross validation scores for each of tuples have been calculated 20 times. The result below shows
 the mean cross validation score for each of the tuples.
 
+![Screenshot]()
+
 ### Boxplot Analysis of the results
 
 Box Plots of cross validation scores are drawn for each of the tuples and compared to obtain the
