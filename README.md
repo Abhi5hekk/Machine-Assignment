@@ -82,3 +82,9 @@ The model had an accuracy of 95.55555555555556 % on the test dataset.
 
 As can be observed from the CMC curve, the model has a considerably higher top 3 accuracy on
 the test dataset.
+
+### Author
+
+Name:- Abhishek Kumar
+Roll Number:- 16074002
+Branch:- CSE(IDD)
